@@ -31,3 +31,11 @@
 # Debug files
 *.dSYM/
 *.su
+
+# CSharp
+**/bin/**
+**/obj/**
+
+# Mercurial
+**/.hg/**
+**.hgignore
